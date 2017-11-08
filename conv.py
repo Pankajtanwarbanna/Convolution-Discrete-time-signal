@@ -1,5 +1,6 @@
 # Author - Pankaj Tanwar
 # Convolution Code
+# Kindly let me know, if you find any mistake. Help me in making it more efficient.  
 #==========================function=======================================================================
 def dictFun(y,p,q):
     t = {}
