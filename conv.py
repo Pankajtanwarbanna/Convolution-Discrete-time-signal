@@ -1,3 +1,5 @@
+# Author - Pankaj Tanwar
+# Convolution Code
 #==========================function=======================================================================
 def dictFun(y,p,q):
     t = {}
